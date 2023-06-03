@@ -53,5 +53,7 @@ This project is open source and freely available for public use.
 
 ## Contact
 
-For any inquiries or suggestions, please contact the author via GitHub.
-[Gunhee Park's GitHub](https://github.com/parkkeonhee?tab=repositories)
+For inquiries, suggestions, or discussions:
+
+- LinkedIn: Gunhee Park (https://linkedin.com/in/parkkeonhee)
+- GitHub: parkkeonhee (https://github.com/parkkeonhee)
