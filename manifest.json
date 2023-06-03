@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Export Tabs",
+  "version": "1.0",
+  "description": "Export all open tabs in the current window to a .txt text file.",
+  "permissions": ["tabs", "downloads"],
+  "action": {
+    "default_icon": {
+      "16": "./icon16x16.png",
+      "48": "./icon48x48.png",
+      "128": "./icon128x128.png"
+    },
+    "default_title": "Export Tabs"
+  },
+  "background": {
+    "service_worker":"background.js"
+  }
+}
