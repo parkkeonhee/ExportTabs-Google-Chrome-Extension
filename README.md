@@ -2,6 +2,8 @@
 
 ## Author: Keonhee Park (Gunhee Park).
 
+Published to the Official Google App Store: https://chrome.google.com/webstore/detail/joogamjgdedceohkbghdljlmpohnlded
+
 The Google Chrome browser's extension was created by Keon Hee Park (Gunhee Park).
 The source code was completed on Friday, June 2, 2023.
 
